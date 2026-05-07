@@ -1,5 +1,6 @@
 ---
 name: cc-dev-test
+argument-hint: "[path=<dir>] [base=<git-ref>] [focus=<func>]"
 description: |
   从资深测试工程师视角，给开发在「提测前」过一遍 git diff，按多维度
   给出 must / should / nice 自测清单 + 可执行动作。技术栈无关——自己
